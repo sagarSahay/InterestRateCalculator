@@ -1,0 +1,9 @@
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/bin/Debug/netcoreapp2.0/InterestRateCalculator.deps.json
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/bin/Debug/netcoreapp2.0/InterestRateCalculator.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/bin/Debug/netcoreapp2.0/InterestRateCalculator.pdb
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.csprojResolveAssemblyReference.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.csproj.CoreCompileInputs.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.AssemblyInfoInputs.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.AssemblyInfo.cs
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator/obj/Debug/netcoreapp2.0/InterestRateCalculator.pdb

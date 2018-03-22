@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "InterestRateCalculator.Console.Host/1.0.0": {
+        "dependencies": {
+          "InterestRateCalculator": "1.0.0"
+        },
+        "runtime": {
+          "InterestRateCalculator.Console.Host.dll": {}
+        }
+      },
+      "InterestRateCalculator/1.0.0": {
+        "runtime": {
+          "InterestRateCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterestRateCalculator.Console.Host/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterestRateCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

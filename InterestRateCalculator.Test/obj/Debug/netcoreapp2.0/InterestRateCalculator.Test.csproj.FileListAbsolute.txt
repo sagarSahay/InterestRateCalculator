@@ -1,0 +1,16 @@
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.Test.deps.json
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.Test.runtimeconfig.json
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.Test.runtimeconfig.dev.json
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.Test.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.Test.pdb
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/bin/Debug/netcoreapp2.0/InterestRateCalculator.pdb
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.csprojResolveAssemblyReference.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.csproj.CoreCompileInputs.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.AssemblyInfoInputs.cache
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.AssemblyInfo.cs
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.dll
+/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/obj/Debug/netcoreapp2.0/InterestRateCalculator.Test.pdb

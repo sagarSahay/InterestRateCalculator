@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{7FFC7910-55EB-40C2-8E96-DACDEFAF5E10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterestRateCalculator.Console.Host/Program.cs">
+    <Files>
+      <File FileName="InterestRateCalculator/InterestRateCalculator.cs" Line="20" Column="1" />
+      <File FileName="InterestRateCalculator.Test/InterestRateCalculatorTests.cs" Line="49" Column="10" />
+      <File FileName="InterestRateCalculator/Bond.cs" Line="11" Column="16" />
+      <File FileName="InterestRateCalculator.Test/BondTests.cs" Line="1" Column="1" />
+      <File FileName="InterestRateCalculator.Console.Host/Program.cs" Line="78" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterestRateCalculator" expanded="True">
+            <Node name="InterestRateCalculator" expanded="True" />
+            <Node name="InterestRateCalculator.Console.Host" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="InterestRateCalculator.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="InterestRateCalculator" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InterestRateCalculator.Console.Host PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sagar/Projects/InterestRateCalculator/InterestRateCalculator.Test/InterestRateCalculatorTests.cs" relfile="InterestRateCalculator.Test/InterestRateCalculatorTests.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InterestRateCalculator.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
